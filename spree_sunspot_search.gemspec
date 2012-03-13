@@ -16,5 +16,5 @@ Gem::Specification.new do |s|
   s.requirements << 'none'
 
   s.add_dependency('sunspot_rails', '>= 1.3.0rc3')
-  s.add_dependency('progress_bar', '0.4.0')
+
 end
