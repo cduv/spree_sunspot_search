@@ -1,6 +1,6 @@
 SpreeSunspotSearch
 ==================
-
+clone cduv
 Adds Solr search to Spree using [Sunspot]:https://github.com/sunspot/sunspot . This is a moving targer and is very beta and should be treated as such. This is compatable with the current 0.70 release of Spree only due to gem requirements.
 
 
